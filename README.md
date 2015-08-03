@@ -10,8 +10,9 @@
 
 ## Freebie
 
-1. [Css Tipografi Bootstrap](http://mzaini30.github.io/ebook/style.css)
-2. [Notepad++ Markdown Syntax](https://raw.githubusercontent.com/Hyzual/markdown_npp/master/default_theme/userDefineLang.xml)
+1. [Css: Tipografi Bootstrap](http://mzaini30.github.io/ebook/style.css)
+2. [Notepad++: Markdown](https://raw.githubusercontent.com/Hyzual/markdown_npp/master/default_theme/userDefineLang.xml)
+3. [Firefox Extension: Markdown](http://bit.ly/downloadmarkdown)
 
 ## Android Apps (by Me ^^)
 
