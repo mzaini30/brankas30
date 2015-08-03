@@ -1,6 +1,4 @@
-# brankas30
-
-Kumpulan file-file penting
+# Brankas30
 
 ## Ar Raayah
 
