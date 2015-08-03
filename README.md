@@ -22,3 +22,13 @@
 4. [Muslim Designer Community](http://bit.ly/downloadmdc2)
 5. [Zikr](http://bit.ly/downloadzikr3)
 6. [Petuah](http://bit.ly/downloadpetuah3)
+
+## Github: Favorite Repositories
+
+1. [Reveal Js](https://github.com/hakimel/reveal.js/)
+2. [Jade](https://github.com/jadejs/jade)
+3. [Coffee Script](https://github.com/jashkenas/coffeescript/)
+4. [Mkdocs](https://github.com/mkdocs/mkdocs/)
+5. [Materialize](https://github.com/Dogfalo/materialize)
+6. [Multimarkdown](https://github.com/fletcher/MultiMarkdown-4)
+7. [Markdown](https://github.com/evilstreak/markdown-js)
