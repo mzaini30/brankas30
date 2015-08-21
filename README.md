@@ -35,3 +35,7 @@
 
 1. [Administrasi masuk Ar Raayah](https://www.dropbox.com/s/eop5k0y4urzpo7v/Administrasi%20masuk%20Ar%20Raayah.zip?dl=0)
 2. [Ijazah](https://www.dropbox.com/s/b8n41s1oi23tvug/ijazah.zip?dl=0)
+
+## Kuliah
+
+1. [NIM](http://codepad.org/5cfRg1at)
