@@ -38,4 +38,6 @@
 
 ## Kuliah
 
-1. [NIM](http://codepad.org/5cfRg1at)
+1. NIM
+
+  1502105051
