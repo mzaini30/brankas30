@@ -26,6 +26,17 @@
 6. [Multimarkdown](https://github.com/fletcher/MultiMarkdown-4)
 7. [Markdown](https://github.com/evilstreak/markdown-js)
 
+## Diskusi Pojok WeBe
+
+1. [Copywriter - 14 Januari 2015](https://www.dropbox.com/s/mcrc4kyeope1hxh/copywriter.pdf?dl=0)
+2. [Creative Blogging - 20 Februari 2015](https://www.dropbox.com/s/fj6k1f5kk70wohl/creative%20blogging.pdf?dl=0)
+3. [Novel - 30 Maret 2015](https://www.dropbox.com/s/pz2z333qftfuynm/novel.pdf?dl=0)
+4. [Lisensi Software - 11 April 2015](https://www.dropbox.com/s/fnevptiv4222dh9/lisensi%20software.pdf?dl=0)
+5. [Menulis Buku - 15 April 2015](https://www.dropbox.com/s/c3ykepx08mbp6g1/menulis%20buku.pdf?dl=0)
+6. [Privacy - 3 Juni 2015](https://www.dropbox.com/s/0cik9h9axm75v5b/privacy.pdf?dl=0)
+7. [User Interface - 19 Agustus 2015](https://www.dropbox.com/s/vxf0ld68g8f3sm9/user%20interface.txt?dl=0)
+8. [Food Blogger - 23 Agustus 2015](https://www.dropbox.com/s/2rlt83ksroa2ddf/Food%20Blogger.txt?dl=0)
+
 ## Bisnis Website
 
 1. [Utang](https://www.dropbox.com/s/ig20shx0xnvs3ec/utang.zip?dl=0)
