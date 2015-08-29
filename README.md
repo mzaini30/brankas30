@@ -15,6 +15,8 @@
 2. [Notepad++: Markdown](https://raw.githubusercontent.com/Hyzual/markdown_npp/master/default_theme/userDefineLang.xml)
 3. [Firefox Extension: Markdown](http://bit.ly/downloadmarkdown)
 4. [Blogger Template: Modern Mag](https://www.dropbox.com/s/ac56n1c9lhhmnsa/modern%20mag.xml?dl=0)
+5. [Writ CSS](https://cmcenroe.me/writ/writ.css)
+6. [Writ CSS Minified](https://cmcenroe.me/writ/writ.min.css)
 
 ## Github: Favorite Repositories
 
